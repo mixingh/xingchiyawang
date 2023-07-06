@@ -1,0 +1,30 @@
+/* 全局样式表 */
+html, body, #app {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.el-breadcrumb {
+  margin-bottom: 15px;
+}
+
+.el-pagination {
+  margin-top: 15px;
+  text-align: center;
+}
+
+.el-descriptions {
+  margin-bottom: 15px;
+}
+/* 限制文字长度为300px，超出部分用省略号代替 */
+.line-limit-length {
+  max-width: 300px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
