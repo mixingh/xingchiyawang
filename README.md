@@ -27,7 +27,7 @@
 * 您必须在下载后的24小时内从计算机或手机中完全删除以上内容.
 *  您使用或者复制了本仓库且本人制作的任何脚本，则视为已接受此声明，请仔细阅读
 ## 项目演示
-项目演示地址： [http://crm.xingheng2026.top](http://crm.xingheng2026.top)  
+项目演示地址： [http://crm.xingheng2026.top](http://riverk.eu.org:9669)  
 ![前端功能演示](https://m.360buyimg.com/babel/jfs/t1/97869/8/26240/565437/6264c54dE49afd62f/56accf8a8c5b5762.png)
 ![前端功能演示](https://m.360buyimg.com/babel/jfs/t1/217128/14/17977/169770/6264c54dE4afbc368/e699dd7fd4eb9663.png)
 ![前端功能演示](https://img30.360buyimg.com/pop/jfs/t1/113007/39/21701/93513/6236e08bE4664f874/2ed1cb139ca6e50b.png)
